@@ -28,42 +28,41 @@
 
 ### Языки программирования
 
-- ![C# .NET](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-- SQL
+![C# .NET](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+
 
 ## .NET Фреймворк и Платформы
 
 - .NET Framework
 - .NET Core / .NET 5+
 - ASP.NET MVC
-- ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)
-- Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/database-restore.png)
+![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)
+Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/database-restore.png)
 
 
 ## Веб-разработка
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- Фреймворки JavaScript (например, React, Angular, или Vue.js)
-- ASP.NET Razor Pages
-- RESTful API разработка
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
 
 ## Базы данных
 
-- ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 ## Инструменты и Технологии
 
-- ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
-- Visual Studio Code
+![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
+- Rider
 - Git и GitHub
 - Dependency Injection
 - Unit Testing
 - Оптимизация и Производительность
 - Swagger (для документации API)
-- Docker и контейнеризация
 - CI/CD (Continuous Integration и Continuous Deployment)
 
 ## Архитектурные Шаблоны
