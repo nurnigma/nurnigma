@@ -1,4 +1,4 @@
-![Привет, мир!](https://github.com/nurnigma)
+![Привет, мир!](https://avatars.githubusercontent.com/u/100410438?v=4)
 
 # ПРИВЕТ, Я Nuriia 👋
 
