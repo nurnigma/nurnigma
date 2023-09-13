@@ -1,4 +1,4 @@
-![Привет, мир!](https://avatars.githubusercontent.com/u/100410438?v=4)
+![Hello, World!]
 
 # ПРИВЕТ, Я Nuriia 👋
 
