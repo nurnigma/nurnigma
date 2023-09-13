@@ -37,8 +37,8 @@
 - .NET Framework
 - .NET Core / .NET 5+
 - ASP.NET MVC
-![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)
-Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/database-restore.png)
+- ASP.NET Core
+- Entity Framework 
 
 
 ## Веб-разработка
@@ -56,26 +56,17 @@ Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/data
 
 ## Инструменты и Технологии
 
-![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
+- Visual Studio
 - Rider
 - Git и GitHub
 - Dependency Injection
 - Unit Testing
 - Оптимизация и Производительность
 - Swagger (для документации API)
-- CI/CD (Continuous Integration и Continuous Deployment)
 
 ## Архитектурные Шаблоны
 
 - MVC (Model-View-Controller)
-- MVVM (Model-View-ViewModel)
-- DDD (Domain-Driven Design)
-
-## Облачные Платформы
-
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
 
 ## Асинхронное Программирование
 
@@ -84,7 +75,6 @@ Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/data
 
 ## Управление Проектами и Командой
 
-- Управление проектами (Project Management)
 - Взаимодействие с командой разработчиков
 
 
